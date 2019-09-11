@@ -1,0 +1,18 @@
+body {
+	background-color: #FFF;
+}
+@font-face {
+	font-family: Euphoria Script;
+	src: url('EuphoriaScript-Regular.ttf');
+}
+
+text#sp {
+	height:100%;
+	width:100%;
+	margin: 0 auto;
+	font-size: 700%;
+	fill: #a1a1a1;
+	font-family: 'Euphoria Script';
+	text-shadow:#fff 0px 1px 0, #000 0 -1px 0;
+}
+

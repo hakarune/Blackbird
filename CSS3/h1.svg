@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="sp-styles.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="95 40 550 180" preserveAspectRatio="xMidYMid meet">
+	<title>Thirteen Ways of Looking at a Blackbird</title>
+	<desc>H1 Heading for Blackbird</desc>
+	<g id="main">
+		<text id="sp" x="-500" y="150">Thirteen Ways of Looking at a Blackbird</text>
+	</g>
+</svg>
